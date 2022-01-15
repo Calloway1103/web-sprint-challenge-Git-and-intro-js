@@ -268,7 +268,7 @@ function removeArtist(array, number){
   return artists.length;
 }
 
-console.log(removeArtist(artists.length));
+console.log(removeArtist);
 
 
 
